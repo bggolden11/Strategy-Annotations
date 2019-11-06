@@ -48,9 +48,8 @@ The output is 8
 
 I did not to use any config files since I did not hard code any values
 
-I also wanted to play around with bitbuckets pipeline ci tool so I added the  
-```.yml``` hope that's okay.
+GitHub Actions was also used for the CI
 
 ```.gitignore``` file taken from http://goel.io/joe 
 
-![Cat Reading Strategy](giphy.gif)
+![Cat Reading Strategy](Giphy/giphy.gif)
