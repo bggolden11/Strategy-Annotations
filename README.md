@@ -52,3 +52,5 @@ I also wanted to play around with bitbuckets pipeline ci tool so I added the
 ```.yml``` hope that's okay.
 
 ```.gitignore``` file taken from http://goel.io/joe 
+
+![Cat Reading Strategy](giphy.gif)
