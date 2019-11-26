@@ -52,4 +52,3 @@ GitHub Actions was also used for the CI
 
 ```.gitignore``` file taken from http://goel.io/joe 
 
-![Cat Reading Strategy](Giphy/giphy.gif)
