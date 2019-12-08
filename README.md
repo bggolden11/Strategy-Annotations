@@ -1,3 +1,5 @@
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg) ](LICENSE)
+
 # Brian Goldenberg Strategy Design Pattern
 
 ## Design Choices
